@@ -189,6 +189,5 @@
         <module>sponge</module>
         <module>jda</module>
         <module>velocity</module>
-        <module>example</module>
     </modules>
 </project>
